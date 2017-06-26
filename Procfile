@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/akka-http-heroku-sample
+web: target/universal/stage/bin/akka-http-heroku-template

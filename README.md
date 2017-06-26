@@ -3,8 +3,8 @@
 This template uses the following versions:
 * scala - 2.12.2
 * java runtime - 1.8
-* sbt - 0.13.7
-* akka-http - 10.0.5
+* sbt - 0.13.13
+* akka-http - 10.0.8
 * sbt-native-packager - 1.2.0-M8
 
 Follow these steps to get started:
